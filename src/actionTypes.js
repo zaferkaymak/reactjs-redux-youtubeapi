@@ -1,0 +1,2 @@
+export const GET_VIDEO_LIST = 'GET_VIDEO_LIST';
+export const GET_SELECT_VIDEO = 'GET_SELECT_VIDEO';
